@@ -50,7 +50,7 @@ Halaman setelah login:
 
 Clone repository
 ```bash
-git clone https://github.com/ZwetaTriRahma/Refisi-Mission-1FE-Intermediate-1B---18101-Zweta-Tri-Rahma.git
+git clone https://github.com/ZwetaTriRahma/Revisi-Mission-1FE-Intermediate-1B---18101-Zweta-Tri-Rahma.git
 git cd chill-movie-react
 npm install
 npm run dev
